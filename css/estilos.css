@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    color: brown;
+    color: brown;   
 }
 
 p {
@@ -13,4 +13,9 @@ p {
 
 img {
     width: 10%;
+}
+
+ul {
+    list-style: none;
+    color: red;
 }
